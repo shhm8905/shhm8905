@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <p align="center">
   <img src="https://github.com/shhm8905/shhm8905/blob/main/images/IMG_20210406_232335.jpg" />
 </p>
