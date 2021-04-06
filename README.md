@@ -15,7 +15,7 @@ class Bio extends Front-end Developer {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Html',Css];
+  languages  = ['JavaScript', 'Html','Css'];
   databases  = 'MongoDB';
   frameworks = ['React', 'React Native'];
 }
