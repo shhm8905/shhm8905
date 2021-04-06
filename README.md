@@ -6,21 +6,20 @@
 </p>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import Developer from 'shhm8905';
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+class Bio extends Front-end Developer {
+  name     = 'Hazem Khaleel';
+  title    = 'Front-end Developer';
+  location = 'Sweden';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  languages  = ['JavaScript', 'Html',Css];
+  databases  = 'MongoDB';
+  frameworks = ['React', 'React Native'];
 }
 ```
 
-⭐️ From [thompsonemerson](https://github.com/thompsonemerson)
+⭐️ From [shhm8905](https://github.com/shhm8905)
 
