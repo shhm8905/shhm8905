@@ -5,6 +5,8 @@
   <img src="https://github.com/shhm8905/shhm8905/blob/main/images/IMG_20210406_232335.jpg" />
 </p>
 
+I'm Hazem from Sweden, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Back-end like node.js and database like mongoDB. I also enjoy wireframing, ui, ux, and design in general.
+
 ```js
 import Developer from 'shhm8905';
 
