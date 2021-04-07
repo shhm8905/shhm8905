@@ -3,8 +3,6 @@
 </p>
 
 <h1 align="center">Hazem Khaleel</h1>
-<hr/>
-
 <p align="center">
    I'm Hazem from Sweden, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work    in Back-end like node.js and database like mongoDB. I also enjoy wireframing, ui, ux, and design in general.
 </p>
