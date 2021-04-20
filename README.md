@@ -4,7 +4,7 @@
 
 <h1 align="center">Hazem Khaleel</h1>
 <p align="center">
-   I'm Hazem from Syrien, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work    in Back-end like node.js and database like mongoDB. I also enjoy wireframing, ui, ux, and design in general.
+   I'm Hazem from Syrien, and I do content on Design and Development. I really enjoy to work with languages and frameworks like React and React Native, as well as work in Back-end like node.js and database like mongoDB. I also enjoy wireframing, ui, ux, and design in general.
 </p>
 
 ```js
