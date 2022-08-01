@@ -4,7 +4,7 @@
 
 <h1 align="center">Hazem Khaleel</h1>
 <p align="center">
-   I'm Hazem from Syria and I'm a front-end developer and specialize in javascript frameworks like React and React Native and fully experienced in node.js. I also work with databases like MongoDB and also enjoy wireframing, UI, UX and design in general.
+   I'm Hazem from Syria and I'm a Full-stack developer and specialize in javascript frameworks like React and React Native and fully experienced in node.js. I also work with databases like MongoDB and also enjoy wireframing, UI, UX and design in general.
 </p>
 
 ```js
