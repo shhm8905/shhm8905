@@ -10,13 +10,13 @@
 ```js
 import Developer from 'shhm8905';
 
-class Bio extends Front-end Developer {
+class Bio extends Software Developer {
   name     = 'Hazem Khalil',
   title    = 'Front-end Developer',
   location = 'Sweden',
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends Software Developer {
   languages  = ['JavaScript', 'Html','Css'],
   databases  = ['MongoDB','Mysql'],
   frameworks = ['React', 'Vue'],
