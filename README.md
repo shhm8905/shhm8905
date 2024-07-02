@@ -11,15 +11,15 @@
 import Developer from 'shhm8905';
 
 class Bio extends Front-end Developer {
-  name     = 'Hazem Khalil';
-  title    = 'Front-end Developer';
-  location = 'Sweden';
+  name     = 'Hazem Khalil',
+  title    = 'Front-end Developer',
+  location = 'Sweden',
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'Html','Css'];
-  databases  = ['MongoDB','Mysql'];
-  frameworks = ['React', 'Vue'];
+  languages  = ['JavaScript', 'Html','Css'],
+  databases  = ['MongoDB','Mysql'],
+  frameworks = ['React', 'Vue'],
 }
 ```
 
